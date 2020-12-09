@@ -1,0 +1,17 @@
+{
+  "genesis": "Genesis",
+  "blockMineTime": 30000,
+  "mineFee": 5,
+  "miners": [
+    "Miner0",
+    "Miner1",
+    "Miner2",
+    "Miner3",
+    "Miner4",
+    "Miner5",
+    "Miner6",
+    "Miner7",
+    "Miner8",
+    "Miner9"
+  ]
+}
